@@ -4,7 +4,7 @@ using JavaScript.
 Main Functionalities:
 
 - Basically we are going to have a balance of $1000.  
-- We are going to go to a store and randomly pick items from the store between the price form zero to $100.    
+- We are going to go to a store and randomly pick items between the price from zero to $100.    
 - We are going to keep buying items until the balance is zero.  
 - We are interested to see what’s going to happen? How many items are we going to buy  
 and what’s happening to our balance every time we buy an item.  
