@@ -1,4 +1,4 @@
-Create a script for a Game where we buy items in a store and discount their cost from a balance of $1000 until the balance becomes zero,
+Create a script for a Game where we buy items in a store and discount their cost from a balance of $1000 until the balance becomes zero,  
 using JavaScript.
 
 Main Functionalities:
